@@ -1,0 +1,25 @@
+// to create a graph as per requirement
+
+import pandas as pd
+y = {'f(x)' :[1,5,9,7],'g(x)':[4,6,8,1],'h(x)' :[7,6,3,9]}
+x = [1,2,3,4]
+
+graph = pd.DataFrame(y,x)
+graph.plot(kind='line', grid=True, title="my graph", ylabel="my y title", xlabel="my x title", xlim=(1,4))
+
+
+
+
+
+// to connect google collab to google drive
+
+from google.colab import drive
+drive.mount("/content/drive")
+
+
+
+
+// to save the graph in drive as PDF
+
+graph_plot = graph.plot(kind='line', grid=True, title="my graph", ylabel="my y title", xlabel="my x title", xlim=(1,4)).get_figure()
+graph_plot.savefig("/content/drive/My Drive/my_graph.pdf")
