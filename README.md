@@ -11,6 +11,8 @@ https://drive.google.com/file/d/1-4zH01sSb4G5EcNM_A9Hm-B8YFIq8AIs/view?usp=share
 
 
 # Pandas Scatter Plot
+https://drive.google.com/file/d/1-RnZpgUCs9m98nM4DA-PWO4sU2EJ5kiY/view?usp=share_link
+![WhatsApp Image 2023-03-21 at 21 33 12](https://user-images.githubusercontent.com/120716113/226668350-c0c99323-11ef-4bd8-af5e-67af04226b5f.jpg)
 
 
 # Matplotlib Line Graph
