@@ -1,0 +1,11 @@
+from matplotlib import pyplot as plt
+
+x = ['A','B','C','D']
+y = [10,30,20,40]
+c = ["red","blue","green","yellow"]
+
+plt.bar(x,y,color=c,width=0.5)
+plt.xlabel("X-axis ")
+plt.ylabel("Y-axis ")
+plt.title('PRAJWAL')
+plt.show()
