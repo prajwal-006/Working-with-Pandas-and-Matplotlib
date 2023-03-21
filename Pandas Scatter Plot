@@ -1,0 +1,8 @@
+import pandas as pd
+
+data={'Name':['Prajwal', 'A', 'B','C', 'D'],
+      'Age':[20, 18, 27, 50, 12]}
+
+df = pd.DataFrame(data = data);
+
+df.plot.scatter(x = 'Name', y = 'Age', s = 'Age', c = 'red',title="PRAJWAL");
