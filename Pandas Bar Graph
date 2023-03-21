@@ -1,0 +1,6 @@
+import pandas as pd
+y = {'f(x)' :[1,5,9,7],'g(x)':[4,6,8,1],'h(x)' :[7,6,3,9]}
+x = [1,2,3,4]
+
+graph = pd.DataFrame(y,x)
+graph.plot(kind='bar',grid=True, ylabel = "Y-AXIS",xlabel="X-AXIS",title="PRAJWAL")
