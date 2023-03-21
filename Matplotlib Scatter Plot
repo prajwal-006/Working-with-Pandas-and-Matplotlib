@@ -1,0 +1,15 @@
+from matplotlib import pyplot as plt
+
+x = ['A','B','C','D']
+y = [10,30,20,40]
+size = [100,300,200,400]
+plt.scatter(x,y,s=size,c="red",label="2021")
+
+x = ['A','B','C','D']
+y = [45,34,23,47]
+size = [100,300,200,400]
+plt.scatter(x,y,s=size,c="blue",label="2022")
+plt.ylabel("Y-axis ")
+plt.title('PRAJWAL')
+plt.legend()
+plt.show()
