@@ -1,0 +1,19 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.array([10, 5, 32, 49])
+y = x*2
+
+# first plot with X and Y data
+plt.plot(x, y)
+
+x1 = [75 ,45, 42, 80]
+y1 = [23, 54, 65, 46]
+
+# second plot with x1 and y1 data
+plt.plot(x1, y1, '-.')
+
+plt.xlabel("X-axis ")
+plt.ylabel("Y-axis ")
+plt.title('PRAJWAL')
+plt.show()
