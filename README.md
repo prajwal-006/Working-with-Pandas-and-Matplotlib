@@ -2,6 +2,7 @@
 
 # Pandas Line Graph
 https://drive.google.com/file/d/1-2xc8p0nMbX6Kthes8Kt5gsDsQG_k5Np/view?usp=share_link
+![WhatsApp Image 2023-03-21 at 21 17 25](https://user-images.githubusercontent.com/120716113/226663697-1514c56d-20e9-44f9-9fc7-08517312802d.jpg)
 
 
 # Pandas Bar Graph
@@ -20,5 +21,4 @@ https://drive.google.com/file/d/1-4zH01sSb4G5EcNM_A9Hm-B8YFIq8AIs/view?usp=share
 
 
 # Matplotlib Scatter Plot
-
-
+![WhatsApp Image 2023-03-21 at 21 15 47](https://user-images.githubusercontent.com/120716113/226663114-e0277f10-f0d5-4913-a8f8-1755e43dc4e8.jpg)
